@@ -1,4 +1,4 @@
-##Club-Management-System
+## Club-Management-System
 
 数据库课设的作业，基于java swing做的社团管理系统，第一次做课设，一个人做完了整个GUI，感觉还行，这学期开始时肯定不能想象学期末竟然能做出来这个，还是不要给自己设限OVO  
 
@@ -9,7 +9,7 @@ _学生界面_
 ![VhHGpd.png](https://s2.ax1x.com/2019/06/13/VhHGpd.png)
 _社团界面_
 ![VhH3fH.png](https://s2.ax1x.com/2019/06/13/VhH3fH.png)
-_主界面_
+_主界面_  
 ![VhH1te.png](https://s2.ax1x.com/2019/06/13/VhH1te.png)
 #### 总结
 1. 做GUI的确能加深对于面向对象的认识。
